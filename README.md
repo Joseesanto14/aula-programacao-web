@@ -6,9 +6,9 @@
 
 O seguinte projeto está sendo criado e atualizado durante as aulas de Programação Web, onde cada dia serão criadas feats diferentes para o sistema.
 
-## Aula 27/08/2026
+## Aula 27/08/2026 - [Versão](https://github.com/Joseesanto14/aula-programacao-web/releases/tag/aulas)
 O foco foi introduzir a linguagem PHP e criar duas páginas, uma principal com formulário de login, e a outra que seria acessada via POST, simulando um login com dados hardcoded.
 
-## Aula 03/09/2026
+## Aula 03/09/2026 - [Versão](https://github.com/Joseesanto14/aula-programacao-web/releases/tag/aulabd)
 Foi adicionado persistência de dados com MySQL, resgatando registros e substituindo a verificação hardcoded por comparação dos dados do POST com os persistidos no banco, entretanto as senhas ainda são armazenadas sem criptografia.
 Foram criadas feats para a exibição de todos os usuários e para a criação de novos usuários.
